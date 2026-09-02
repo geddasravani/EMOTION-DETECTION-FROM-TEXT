@@ -27,7 +27,7 @@ b) Text Cleaning
 Convert everything to lowercase.
 Remove special characters, numbers, and punctuations.
 Example:
-Original: "I'm soooo HAPPY!!! #blessed 😍"
+Original: "I'm soooo HAPPY!!! #blessed "
 Cleaned: "im soooo happy blessed"
 c) Label Encoding
 Since CNN works with numbers, we convert emotion labels into integers.
@@ -100,5 +100,5 @@ Try LSTM or BERT models.
  Expected Outcome
 A working Emotion Detection Model 
 Useful for:
-Student feedback analysis 📘
-Mental health monitoring 🧠
+Student feedback analysis
+Mental health monitoring 
